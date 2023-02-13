@@ -1,0 +1,56 @@
+#ultima-imagem{
+    /* image 1 */
+
+position: absolute;
+width: 154px;
+height: 55px;
+left: 253px;
+top: 142px;
+
+background: url(image_1.png);
+
+}
+
+.login{
+    /* Log in */
+
+position: absolute;
+width: 71px;
+height: 32px;
+left: 295px;
+top: 303px;
+
+font-family: 'Lucida Handwriting';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+#botao{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 340px;
+height: 56px;
+left: 160px;
+top: 580px;
+
+background: #2A88C8;
+border-radius: 10px;
+
+}
+
+#botao:hover{
+
+background: #e0260d;
+
+
+}
+
+
